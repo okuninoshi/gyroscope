@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gyroscope/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gyroscope/static/js/main.5d8f8a12.chunk.js",
-    "main.js.map": "/gyroscope/static/js/main.5d8f8a12.chunk.js.map",
+    "main.js": "/gyroscope/static/js/main.b333b4cd.chunk.js",
+    "main.js.map": "/gyroscope/static/js/main.b333b4cd.chunk.js.map",
     "runtime-main.js": "/gyroscope/static/js/runtime-main.b492486d.js",
     "runtime-main.js.map": "/gyroscope/static/js/runtime-main.b492486d.js.map",
     "static/js/2.3ec0d3b6.chunk.js": "/gyroscope/static/js/2.3ec0d3b6.chunk.js",
     "static/js/2.3ec0d3b6.chunk.js.map": "/gyroscope/static/js/2.3ec0d3b6.chunk.js.map",
     "index.html": "/gyroscope/index.html",
-    "precache-manifest.46b44222e8be444b5a94c0f79920d24a.js": "/gyroscope/precache-manifest.46b44222e8be444b5a94c0f79920d24a.js",
+    "precache-manifest.01f680d61e849d7160b8c9d02af86b99.js": "/gyroscope/precache-manifest.01f680d61e849d7160b8c9d02af86b99.js",
     "service-worker.js": "/gyroscope/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/gyroscope/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.3ec0d3b6.chunk.js.LICENSE.txt": "/gyroscope/static/js/2.3ec0d3b6.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b492486d.js",
     "static/js/2.3ec0d3b6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5d8f8a12.chunk.js"
+    "static/js/main.b333b4cd.chunk.js"
   ]
 }

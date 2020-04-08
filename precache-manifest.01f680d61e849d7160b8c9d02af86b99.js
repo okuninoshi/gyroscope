@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d71a2dac3a2396d2d1886133aff03135",
+    "revision": "45517f3181e70a53db0483948d328751",
     "url": "/gyroscope/index.html"
   },
   {
-    "revision": "aad28e994aa358213566",
+    "revision": "1024333632d9e0126b61",
     "url": "/gyroscope/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gyroscope/static/js/2.3ec0d3b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aad28e994aa358213566",
-    "url": "/gyroscope/static/js/main.5d8f8a12.chunk.js"
+    "revision": "1024333632d9e0126b61",
+    "url": "/gyroscope/static/js/main.b333b4cd.chunk.js"
   },
   {
     "revision": "4ee9e17d887809ecdfea",
