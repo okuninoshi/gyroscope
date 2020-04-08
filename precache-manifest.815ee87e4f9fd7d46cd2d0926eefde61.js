@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4b140096645412b36da6925acf8bbd2",
+    "revision": "40a7df3d0a933842955a81ca156f0f4a",
     "url": "/gyroscope/index.html"
   },
   {
