@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a873f15c34412f27ca61616197d0715d",
+    "revision": "90b41b64312032c6a2bfdb10d074add3",
     "url": "/gyroscope/index.html"
   },
   {
-    "revision": "272e32fdc1ebee88f0b4",
-    "url": "/gyroscope/static/css/main.6b39fd96.chunk.css"
+    "revision": "b8298473d749421a7659",
+    "url": "/gyroscope/static/css/main.78d36d83.chunk.css"
   },
   {
-    "revision": "c32e838dba4c25d6e684",
-    "url": "/gyroscope/static/js/2.3ec0d3b6.chunk.js"
+    "revision": "4094e8fa0f90c78fc646",
+    "url": "/gyroscope/static/js/2.0d8ed71c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/gyroscope/static/js/2.3ec0d3b6.chunk.js.LICENSE.txt"
+    "url": "/gyroscope/static/js/2.0d8ed71c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "272e32fdc1ebee88f0b4",
-    "url": "/gyroscope/static/js/main.a7a98e4c.chunk.js"
+    "revision": "b8298473d749421a7659",
+    "url": "/gyroscope/static/js/main.7123af00.chunk.js"
   },
   {
     "revision": "4ee9e17d887809ecdfea",
