@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gyroscope/precache-manifest.26694dab3bb9143ece42121c957c4565.js"
+  "/gyroscope/precache-manifest.41cf2b061b28314703582c9826a3bdce.js"
 );
 
 self.addEventListener('message', (event) => {
