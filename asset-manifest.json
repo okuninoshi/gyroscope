@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gyroscope/static/css/main.5f361e03.chunk.css",
+    "main.css": "/gyroscope/static/css/main.6b39fd96.chunk.css",
     "main.js": "/gyroscope/static/js/main.a7a98e4c.chunk.js",
     "main.js.map": "/gyroscope/static/js/main.a7a98e4c.chunk.js.map",
     "runtime-main.js": "/gyroscope/static/js/runtime-main.b492486d.js",
@@ -8,16 +8,16 @@
     "static/js/2.3ec0d3b6.chunk.js": "/gyroscope/static/js/2.3ec0d3b6.chunk.js",
     "static/js/2.3ec0d3b6.chunk.js.map": "/gyroscope/static/js/2.3ec0d3b6.chunk.js.map",
     "index.html": "/gyroscope/index.html",
-    "precache-manifest.901c9b1247c75f565ded05bd1fc3c548.js": "/gyroscope/precache-manifest.901c9b1247c75f565ded05bd1fc3c548.js",
+    "precache-manifest.5e31ac191b1e1c92ebb1ce593b54e325.js": "/gyroscope/precache-manifest.5e31ac191b1e1c92ebb1ce593b54e325.js",
     "service-worker.js": "/gyroscope/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/gyroscope/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.6b39fd96.chunk.css.map": "/gyroscope/static/css/main.6b39fd96.chunk.css.map",
     "static/js/2.3ec0d3b6.chunk.js.LICENSE.txt": "/gyroscope/static/js/2.3ec0d3b6.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/gyroscope/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b492486d.js",
     "static/js/2.3ec0d3b6.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
+    "static/css/main.6b39fd96.chunk.css",
     "static/js/main.a7a98e4c.chunk.js"
   ]
 }
